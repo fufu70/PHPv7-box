@@ -7,3 +7,5 @@ To start simply run:
 ```shell
 $ vagrant up
 ```
+
+To play around with PHP 7.0 simply add your php files into the `src/` directory.
