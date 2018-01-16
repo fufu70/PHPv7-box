@@ -1,0 +1,2 @@
+    SetEnv box_mysql_username root
+	SetEnv box_mysql_password default_password
